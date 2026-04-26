@@ -1,7 +1,20 @@
-| Problem | Category | Pattern | Complexity | Status |
+## 📊 Progress Tracker
+
+### 🧱 Hashing & Frequency
+| Problem | File | Pattern | Complexity | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| [Defuse the Bomb](./Sliding-Window/DefuseBomb.java) | Array | Sliding Window | O(N) | ✅ Solved |
-| [Circular Sentence](./Arrays-Strings/CircularSentence.java) | String | Circular Indexing | O(N) | ✅ Solved |
-| [Group Anagrams](./Hashing/GroupAnagrams.java) | Hashing | Sort & Map | O(NK log K) | ✅ Solved |
-| [Two Sum](./Hashing/TwoSum.java) | Hashing | Complement Map | O(N) | ✅ Solved |
-| [Valid Palindrome](./Arrays-Strings/ValidPalindrome.java) | Two Pointer | Symmetric Check | O(N) | ✅ Solved |
+| **Two Sum** | [Java](./Hashing/TwoSum.java) | HashMap | O(N) | ✅ |
+| **Valid Anagram** | [Java](./Hashing/ValidAnagram.java) | Frequency Array | O(N) | ✅ |
+| **Contains Duplicate** | [Java](./Hashing/ContainsDuplicate.java) | HashSet | O(N) | ✅ |
+| **Group Anagrams** | [Java](./Hashing/GroupAnagrams.java) | Sort & Map | O(NK log K) | ✅ |
+
+### 🎡 Circular & Sliding Window
+| Problem | File | Pattern | Complexity | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Defuse the Bomb** | [Java](./Sliding-Window/DefuseBomb.java) | Sliding Window | O(N) | ✅ |
+| **Circular Sentence** | [Java](./Arrays-Strings/CircularSentence.java) | Modulo Wrap | O(N) | ✅ |
+
+### ↔️ Two Pointers
+| Problem | File | Pattern | Complexity | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Valid Palindrome** | [Java](./Arrays-Strings/ValidPalindrome.java) | Converging Pointers | O(N) | ✅ |
