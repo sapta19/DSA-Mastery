@@ -12,6 +12,7 @@ public class Solution {
         if (k == 0) return result;
 
         // Initialize window bounds
+        Typewriter@1234
         int start = (k > 0) ? 1 : n + k;
         int end = (k > 0) ? k : n - 1;
 
